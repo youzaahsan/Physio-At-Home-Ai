@@ -140,7 +140,7 @@ PAH aims to bridge the gap between healthcare and technology by making physiothe
 
 ### 👨‍💻 Developed By
 
-# Farhat Nilo Far
+# Youza Ahsan
 
 *Frontend Developer • AI Enthusiast • Problem Solver*
 
